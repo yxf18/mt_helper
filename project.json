@@ -1,0 +1,15 @@
+{
+    "assets":[],
+    "launchConfig": {
+        "displaySplash": true,
+        "hideLogs": false,
+        "splashText": "Powered by Auto.js Pro",
+        "stableMode": false
+    },
+    "main": "index.js",
+    "name": "美团买菜助手",
+    "packageName": "org.example.mt_helper",
+    "versionCode": "1.0.2",
+    "versionName": "1.0.2",
+    "ignore": ["build","node_modules"]
+}
