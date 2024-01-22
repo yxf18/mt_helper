@@ -3,7 +3,7 @@
  * @Description: 美团买菜优化版
  * @FilePath: /mt_helper/main2.0.js
  */
-const PSD = '0725';
+const PSD = '0000';
 
 events.on("exit", function () {
   console.error('[ 结束运行 ]', new Date().toLocaleString())
